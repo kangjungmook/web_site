@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset='utf-8'>
+<link rel="stylesheet" href="css/style.css" type="text/css">
+
+<head>
+    <style>
+        body{
+            height: 100%;
+            background-color: #F3F1E9;
+        }
+        lable{
+            inline-size: 100%;
+            width: 120px; 
+        }
+        input{
+            display: inline-block;
+            width: 160px;
+        }
+    </style>
+</head>
+<body>
+    <div id="page-wrap">
+        <form method="post" action="#">
+            <fieldset>
+                <legend>회원정보입력</legend>
+                <labe for ="naem">아이디</labe>
+                <input type="text" name="name" id ="texlt">
+                <button>중복검사</button><br>
+                <labe for ="password1">패스워드</labe>
+                <input type="password" name="password1" id ="texlt"><br>
+                <label for="password2">패스워드 확인</label>
+                <input type="password" name="password2" id ="texlt"><br>
+                <label for="name">이름</label>
+                <input type="text" name="name"><br>
+                <label for="tel">휴대폰번호</label>
+                <input type="tel" name="tel"><br>
+                <label for="email">이메일</label>
+                <input type="email" name="email"><br>
+                <label for="dod">생일</label>
+                <input type="date" name="dod"><br>
+                <label for="url">홈페이지</label>
+                <input type="url" name="url"><br>
+                <input type="radio" name="gender" value="Male">남성<br>
+                <input type="radio" name="gender" value="Female">여성<br>
+            </fieldset>
+            <input type="submit" name="submit" value="제출" />
+            <input type="reset" name=" reset" value="초기화" />   
+        </form> 
+     </div>
+</body>
+</html>
