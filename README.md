@@ -9,6 +9,10 @@ html 코드 설명 :
 <header class="showcase">: 헤더 요소로서 Xbox Games Showcase에 대한 정보를 표시합니다.
 <section class="home-cards">: 홈 카드를 담고 있는 섹션(<section>) 요소입니다. 각 카드에는 이미지, 제목, 내용, 링크 등이 포함됩니다.
 ```
-css 코드 설명 : 
+css 코드 설명: ? ? ? 
+
+결과물:
+![image](https://github.com/kangjungmook/web_site/assets/106642094/0e4df9f5-39b9-4120-b92a-dbe1afb89413)
+
 
 
