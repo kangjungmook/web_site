@@ -12,7 +12,8 @@ html 코드 설명 :
 css 코드 설명: ? ? ? 
 
 결과물:
-![image](https://github.com/kangjungmook/web_site/assets/106642094/0e4df9f5-39b9-4120-b92a-dbe1afb89413)
+![image](https://github.com/kangjungmook/web_site/assets/106642094/feb6af79-9a7c-4b65-b9ed-798ec7532c84)
+
 
 
 
